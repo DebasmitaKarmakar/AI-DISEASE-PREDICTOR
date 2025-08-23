@@ -43,16 +43,6 @@ We tested multiple ML models on the dataset:
 
 👉 **Best Performing Model:** Random Forest Classifier (Accuracy: 87%)  
 
-## 📚 5-Day Breakdown
-
-| Day | Topics Covered |
-|-----|----------------|
-| 1   | ML Basics, Data Preprocessing |
-| 2   | Model Training & Evaluation |
-| 3   | Advanced Models & Feature Engineering |
-| 4   | Model Optimization & Hyperparameter Tuning |
-| 5   | Live Prediction Demo & Portfolio Showcase |
-
 ## 🛠️ Tech Stack
 - **Language:** Python 3  
 - **Libraries:** scikit-learn, pandas, numpy, matplotlib, seaborn  
